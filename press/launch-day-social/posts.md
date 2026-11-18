@@ -76,7 +76,17 @@ If you have a minute, I'd really value your feedback in the comments there. And 
 
 App Store link: https://apps.apple.com/app/id6830547524
 
-### r/iOSApps (launch day; allows developers to post their own apps)
+**When to post (Melbourne time).** Reddit is busiest during the US morning, which is late evening in Melbourne. Post one subreddit per day: the same link in several subreddits at once can trip Reddit's spam filter.
+
+| When | Where |
+|---|---|
+| Now to 30 Nov | Don't promote yet. Comment genuinely in these subreddits so your account has some history; new or quiet accounts often get auto-filtered. |
+| Tue 1 Dec, ~11pm | r/SideProject (US morning, while the Product Hunt launch is still running) |
+| Wed 2 Dec, ~11pm | r/iOSApps |
+| Thu 3 Dec, ~11pm | r/shortcuts |
+| Sat 5 Dec, ~11pm | r/apple App Saturday |
+
+### r/iOSApps (allows developers to post their own apps)
 
 **Title:** I made a free app that adds a black & white copy of every photo you take with the iPhone Camera
 
@@ -100,7 +110,7 @@ I'd genuinely love feedback, especially on the Shortcuts setup and which film lo
 
 **Images:** attach ig-1-cover, ig-4-dog and ig-5-film-stocks if the subreddit allows images.
 
-### r/SideProject (launch day; Product Hunt link is fine here)
+### r/SideProject (Product Hunt link is fine here)
 
 **Title:** I built an iPhone app because I missed shooting B&W on my Fujifilm. It launched on Product Hunt today.
 
@@ -122,7 +132,7 @@ App Store: https://apps.apple.com/app/id6830547524
 
 Happy to answer anything about building it or launching as a solo maker.
 
-### r/shortcuts (any day; this audience will appreciate the automation)
+### r/shortcuts (this audience will appreciate the automation)
 
 **Title:** Using a "When Camera is closed" automation to auto-develop B&W copies of new photos
 
