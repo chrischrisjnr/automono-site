@@ -34,14 +34,20 @@
       <h2>Auto-develop in the background</h2>
       <p>Set this up once and your black &amp; white prints appear within seconds of closing the Camera.</p>
       <h3 class="h3" style="margin-top:1.4em">Quick setup with Apple Intelligence</h3>
-      <p>Open <strong>Shortcuts</strong>, and where it asks what you'd like to make, paste this prompt (Automono's guide has a Copy button for it):</p>
-      <blockquote class="box" style="padding:14px 18px; margin:0 0 1em">Create a personal automation that runs immediately, without asking first, when the Camera app is closed. It should run the Automono action “Convert New Photos to Black &amp; White” and nothing else. Don't use an Open App action.</blockquote>
-      <p>Check the result says “When Camera is Closed” and runs “Convert New Photos to Black &amp; White”, then save. If Shortcuts makes something different, set it up by hand:</p>
+      <ol>
+        <li>Open <strong>Shortcuts</strong> and paste this prompt where it asks you to describe a shortcut (Automono's guide has a Copy button for it):</li>
+      </ol>
+      <blockquote class="box" style="padding:14px 18px; margin:0 0 1em">When I close the Camera app, run the Automono action “Develop New Photos”. Run it immediately without asking, and don't add an Open App action.</blockquote>
+      <ol start="2">
+        <li>Shortcuts builds the “When Camera is Closed” trigger, then says you'll need to use the editor: it can't add other apps' actions from a prompt yet. Tap <strong>Edit</strong>, search for <strong>Automono</strong> and choose <strong>Develop New Photos</strong>.</li>
+        <li>Tap <strong>Done</strong>.</li>
+      </ol>
+      <p>If Shortcuts doesn't offer to build from a description, set it up by hand:</p>
       <h3 class="h3" style="margin-top:1.4em">Set it up by hand</h3>
       <ol>
         <li>Open <strong>Shortcuts</strong>, tap <strong>Automation</strong>, then tap <strong>+</strong>.</li>
         <li>Choose <strong>App</strong>, select <strong>Camera</strong>, tick only <strong>Is Closed</strong>, and choose <strong>Run Immediately</strong>.</li>
-        <li>Add an action: search for <strong>Automono</strong> and choose <strong>Convert New Photos to Black &amp; White</strong> (not “Open App”).</li>
+        <li>Add an action: search for <strong>Automono</strong> and choose <strong>Develop New Photos</strong> (not “Open App”).</li>
         <li>Test it: take a photo, close the Camera, then open Automono. The <strong>Auto-develop in the background</strong> box on the home screen gets a tick.</li>
       </ol>
       <p class="muted">Tip: if Automono doesn't appear when you search in Shortcuts, open the Automono app once first.</p>
